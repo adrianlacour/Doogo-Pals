@@ -1,3 +1,6 @@
+---
+permalink: /index.html
+---
 This project was created using HTML, CSS, JavaScript, and React. It allows the user to search through a list of dogs.
 
 ## Available Scripts
