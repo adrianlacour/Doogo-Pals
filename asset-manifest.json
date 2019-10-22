@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Doogo-Pals/static/css/main.70846e27.chunk.css",
+    "main.js": "/Doogo-Pals/static/js/main.90c82534.chunk.js",
+    "main.js.map": "/Doogo-Pals/static/js/main.90c82534.chunk.js.map",
+    "runtime-main.js": "/Doogo-Pals/static/js/runtime-main.3c65194e.js",
+    "runtime-main.js.map": "/Doogo-Pals/static/js/runtime-main.3c65194e.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/Doogo-Pals/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b9edcb38.chunk.js": "/Doogo-Pals/static/js/2.b9edcb38.chunk.js",
+    "static/js/2.b9edcb38.chunk.js.map": "/Doogo-Pals/static/js/2.b9edcb38.chunk.js.map",
+    "index.html": "/Doogo-Pals/index.html",
+    "precache-manifest.9a9e907b019d69b4aa9cf96a059f14db.js": "/Doogo-Pals/precache-manifest.9a9e907b019d69b4aa9cf96a059f14db.js",
+    "service-worker.js": "/Doogo-Pals/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/Doogo-Pals/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.70846e27.chunk.css.map": "/Doogo-Pals/static/css/main.70846e27.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3c65194e.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.b9edcb38.chunk.js",
+    "static/css/main.70846e27.chunk.css",
+    "static/js/main.90c82534.chunk.js"
+  ]
+}
